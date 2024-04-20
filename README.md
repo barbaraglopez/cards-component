@@ -2,7 +2,8 @@
 
 Este es un proyecto de muestra que demuestra el diseño de tarjetas utilizando datos de APIs externas para crear una experiencia visualmente atractiva.
 
-Enlace al proyecto: [Proyecto de Muestra: Tarjetas de Diseño](https://github.com/tu-usuario/tu-repositorio)
+Enlace al proyecto: [Proyecto de Muestra: Tarjetas de Diseño](https://github.com/barbaraglopez/cards-component)
+Puedes verlo aqui : [Proyecto en vercel](https://cards-component.vercel.app/)
 
 ## Descripción
 
